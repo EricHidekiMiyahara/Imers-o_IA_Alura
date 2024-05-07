@@ -9,3 +9,7 @@
 ##
 ### 🤿 Aula 1: Mergulhando no Gemini, a IA do Google
 #### Introdução 
+
+##
+### 🤿 Aula 2: Melhores técnicas em Engenharia de Prompt
+#### Introdução 
