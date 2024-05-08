@@ -13,3 +13,7 @@
 ##
 ### 🤿 Aula 2: Melhores técnicas em Engenharia de Prompt
 #### Introdução 
+
+##
+### 🤿 Aula 3: Explorando os parâmetros do Google AI Studio
+#### Introdução 
